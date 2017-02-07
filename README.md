@@ -1,6 +1,6 @@
 # hostrc
 
-> An alternate minimal solution of [SwitchHosts](https://github.com/oldj/SwitchHosts) && [multiple-host](https://github.com/liyangready/multiple-host)
+> An alternate host-switch minimal solution of [SwitchHosts](https://github.com/oldj/SwitchHosts) && [multiple-host](https://github.com/liyangready/multiple-host)
 
 ## Features
 
