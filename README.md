@@ -4,7 +4,7 @@
 
 [![npm version](https://badge.fury.io/js/hostrc.svg)](http://badge.fury.io/js/hostrc)
 
-Thanks for [guankaishe](https://github.com/switer) tranfer `hostrc` package
+Thanks to [guankaishe](https://github.com/switer) for donating the npm package name!
 
 ## Features
 
