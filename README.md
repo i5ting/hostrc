@@ -39,6 +39,11 @@ use in cli
 
 > $ hrc or hostrc
 
+
+if don't want open url in chrome
+
+> export HOSTRC_OPEN=false
+
 ### 2) api
 
 open brower with blank url
