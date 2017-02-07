@@ -1,10 +1,14 @@
 # hostrc
 
-Features
+> An alternate minimal solution of [SwitchHosts](https://github.com/oldj/SwitchHosts) && [multiple-host](https://github.com/liyangready/multiple-host)
 
-- minimal dependency
-- no dns cache
-- support http && https proxy
+## Features
+
+- Declaration with hostrc config file
+- Minimal dependency && Quick installation
+- No dns cache && live-refresh
+- Support http && https proxy
+- Support cli && api usages
 
 ## Install 
 
