@@ -21,7 +21,7 @@ touch hostrc(default config file)
 
 ### cli
 
-read process.pwd() + '/hostrc' && start 
+read default config file from process.pwd() + '/hostrc' && start 
 
 install as binary module
 
