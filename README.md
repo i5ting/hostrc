@@ -23,7 +23,8 @@ touch hostrc(default config file)
 
 read process.pwd() + '/hostrc' && start 
 
-> $ dh
+> $ [sudo] npm i -g hostrc
+> $ hrc or hostrc
 
 ### api
 
