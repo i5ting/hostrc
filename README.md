@@ -27,7 +27,7 @@ touch hostrc(default config file)
 127.0.0.1 q.qunarzz.com
 ```
 
-### cli
+### - cli
 
 read default config file from process.pwd() + '/hostrc' && start 
 
@@ -39,7 +39,7 @@ use in cli
 
 > $ hrc or hostrc
 
-### api
+### - api
 
 open brower with blank url
 
@@ -61,19 +61,15 @@ require('hostrc')('./hostrc2', '127.0.0.1:3000')
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-## 版本历史
+## History
 
-- v1.0.0 初始化版本cli,实现kp导出
+- v1.0.0 init
 
-## 欢迎fork和反馈
+## Welcome fork and feekback
 
 - write by `i5ting` i5ting@126.com
 
-如有建议或意见，请在issue提问或邮件
-
 ## License
-
-
 
 this repo is released under the [MIT
 License](http://www.opensource.org/licenses/MIT).
