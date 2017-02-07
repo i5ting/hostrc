@@ -23,8 +23,8 @@ Thanks to [guankaishe](https://github.com/switer) for donating the npm package n
 touch hostrc(default config file)
 
 ```
-127.0.0.1 qunarzz.com
-127.0.0.1 q.qunarzz.com
+127.0.0.1 baidu.com
+127.0.0.1 q.baidu.com
 ```
 
 ### 1) cli
