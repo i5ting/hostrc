@@ -23,7 +23,12 @@ touch hostrc(default config file)
 
 read process.pwd() + '/hostrc' && start 
 
+install as binary module
+
 > $ [sudo] npm i -g hostrc
+
+use in cli
+
 > $ hrc or hostrc
 
 ### api
