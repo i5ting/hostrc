@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-require('./')()
+require('../lib')()
 
 process.on('uncaughtException', function (err) {
     console.log(err);

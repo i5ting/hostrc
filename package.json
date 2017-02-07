@@ -8,7 +8,7 @@
     "hrc": "bin/bin.js"
   },
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node test.js"
   },
   "keywords": [],
   "author": "i5ting",
