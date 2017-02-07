@@ -27,7 +27,7 @@ touch hostrc(default config file)
 127.0.0.1 q.qunarzz.com
 ```
 
-### - cli
+### 1) cli
 
 read default config file from process.pwd() + '/hostrc' && start 
 
@@ -39,7 +39,7 @@ use in cli
 
 > $ hrc or hostrc
 
-### - api
+### 2) api
 
 open brower with blank url
 
