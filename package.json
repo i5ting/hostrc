@@ -1,10 +1,6 @@
 {
   "name": "hostrc",
-<<<<<<< HEAD
-  "version": "1.0.5",
-=======
   "version": "1.0.6",
->>>>>>> e9e83d47aab710547893ea51e692ed15dab6ee33
   "description": "",
   "main": "lib/index.js",
   "bin": {
