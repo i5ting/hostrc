@@ -53,6 +53,8 @@ open brower with default url
 require('hostrc')('./hostrc2', '127.0.0.1:3000')
 ```
 
+prcess.env.NODE_ENV === 'development'
+
 ## Contributing
 
 1. Fork it
